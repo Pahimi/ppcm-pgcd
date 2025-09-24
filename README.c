@@ -4,7 +4,6 @@
 
 int main()
 {
-    int t[Max_Size] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     int a, b;
     printf("Enter your first number: ");
     scanf("%d", &a);
